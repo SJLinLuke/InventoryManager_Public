@@ -80,14 +80,14 @@ An automobile tire stock management APP for a tire shop internal use.
 
 | Date  | Version | Update Information | 
 | ------------- |:-------------:| :-------------:|
+|  2025/04/04    | 2.0.1  | Layout fixed |
 |  2025/03/17    | 2.0.0  | New Interface Release |
 |  2024/11/02    | 1.6.3  | [FIX] tap view area to hide keyboard & [FEATURE] add shake button animation |
 |  2024/09/30    | 1.6.2  | [FIX] open camera in main thread |
 |  2024/09/06    | 1.6.1  | Hot fixes ( [FIX] auto swipe up view when tap on textfield that covered by keyboard, [FIX] use scrollView to fit the layout on iphone SE )|
-|  2024/08/21    | 1.6.0  | Brand new UI release |
 
 ## Lastest Version 
-2.0.0
+2.0.1
 
 ## Requirement 
 - Xcode 14.0 or later
