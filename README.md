@@ -6,7 +6,7 @@
 
 
 <p align="center">
-    <a href="https://apps.apple.com/tw/app/ridetogether/id1619743048"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"></a>
+    <a href="https://apps.apple.com/tw/app/ridetogether/id1624830120"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"></a>
 </p>
 
 
